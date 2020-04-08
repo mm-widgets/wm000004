@@ -12,7 +12,7 @@
 	},
 	"repository": {
 		"type": "https+git",
-		"url": "https://github.com/mm-core/base.git"
+		"url": "https://github.com/mm-tpl/widgets-mobile.git"
 	},
 	"main": "dist/index.js",
 	"module": "dist/index.js",
