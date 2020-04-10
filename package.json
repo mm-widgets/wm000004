@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/wm000004",
-	"version": "1.0.0",
+	"version": "1.0.202004101618",
 	"description": "日期选择",
 	"scripts": {
 		"test": "tsc -w",
