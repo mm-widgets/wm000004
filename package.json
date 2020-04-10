@@ -38,7 +38,12 @@
 	],
 	"license": "MIT",
 	"dependencies": {},
+	"peerDependencies": {
+		"@react-native-community/datetimepicker": "*",
+		"react-native-modal-datetime-picker": "*"
+	},
 	"devDependencies": {
+		"@react-native-community/datetimepicker": "latest",
 		"@types/react": "latest",
 		"@types/react-native": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
@@ -50,6 +55,7 @@
 		"eslint-plugin-react": "latest",
 		"react": "latest",
 		"react-native": "latest",
+		"react-native-modal-datetime-picker": "latest",
 		"typescript": "next"
 	}
 }
